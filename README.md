@@ -1,11 +1,9 @@
 # Morse-Code-Translator
-This is a stupid and meaningless morse code translator 
-Is it stupid? Yes.
-But does it work? Also Yes.
+This is a simple morse code translator that I created in my first year of CompSci.
 
-Also you probably need to have gcc and ncurse installed.
+The ncurses library is needed for installation.
 
 Installation
 1. Make Install.sh executable using chmod +x Install.sh
 2. Execute it
-3. Yay!! (except if it doesn't work the not yay)
+3. Installed
